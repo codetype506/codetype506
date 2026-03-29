@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1B4F8A&height=200&section=header&text=Mauricio%20Taylor%20Fonseca&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Full-Stack%20%7C%20AI%20%7C%20Unity&descAlignY=55&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1B4F8A&center=true&vCenter=true&width=600&lines=Building+full-stack+web+%26+mobile+solutions;AI-powered+tools+with+Whisper+%26+GPT;Unity+2D%2F3D+game+developer;Cisco+CCNA+V6.0+certified+%E2%9C%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1B4F8A&center=true&vCenter=true&width=600&lines=Building+full-stack+web+%26+mobile+solutions;AI-powered+tools+with+Whisper+%26+GPT-4;Cisco+CCNA+V6.0+certified+%E2%9C%85;Looking+for+my+first+dev+opportunity+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,9 +15,9 @@ developer = {
     "name":     "Mauricio Taylor Fonseca",
     "location": "San José, Costa Rica 🇨🇷",
     "studying": "B.S. Software Development Engineering @ Universidad Latina",
-    "focus":    ["Full-Stack Web", "Mobile APIs", "AI Tools", "Game Dev (Unity)"],
+    "focus":    ["Full-Stack Web", "Mobile Apps", "AI Tools", "Game Dev"],
     "networking": "Cisco CCNA V6.0 — All 4 modules completed ✅",
-    "looking_for": "Junior Developer / Software Engineering internship",
+    "looking_for": "Junior Developer / First professional opportunity 🚀",
     "contact":  "mauriciotf94@gmail.com"
 }
 ```
@@ -45,6 +45,7 @@ developer = {
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 **Databases**
 
@@ -55,77 +56,59 @@ developer = {
 **AI & ML**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GPT](https://img.shields.io/badge/GPT_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GPT](https://img.shields.io/badge/GPT--4_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 [MinuteIA — AI Meeting Minutes Generator](https://github.com/codetype506/minuteia)
-> Automatically transcribes audio and generates structured meeting minutes using AI
+### 🤖 [MinuteIA — AI Meeting Minutes Generator](https://github.com/codetype506/MinuteIA)
+> Automatically transcribes meeting audio and generates structured minutes using AI
 
 - 🎙️ Real-time audio transcription with **OpenAI Whisper**
-- 📝 Automatic meeting minutes generation via **GPT API**
-- ⚡ Built with Python + Flask backend
-- 💡 Eliminates manual note-taking entirely
+- 📝 Structured meeting minutes generation via **GPT-4**
+- ⚡ Eliminates manual note-taking entirely
+- 🌐 Web interface built with HTML + Python backend
 
-`Python` `Whisper` `GPT API` `Flask` `AI`
-
----
-
-### 🏋️ [Gym Management System — Full-Stack MVC](https://github.com/codetype506/gym-mvc)
-> Complete membership and attendance management platform
-
-- 👥 User registration and membership tracking
-- 📊 Attendance control with admin dashboard
-- 🏗️ Clean **MVC architecture** with MySQL backend
-- 📱 Responsive web interface
-
-`Java` `MVC` `MySQL` `HTML` `CSS`
+`Python` `Whisper` `GPT-4` `Flask` `HTML` `AI`
 
 ---
 
-### 🚛 [Truck Logistics Platform — CRUD Web + Android API](https://github.com/codetype506/logistics-app)
-> Full logistics system with web dashboard and mobile app
+### 📚 [Proyects — University Portfolio](https://github.com/codetype506/Proyects)
+> Collection of projects built throughout my Software Engineering degree
 
-- 🌐 Web CRUD interface with **Apache** backend
-- 📱 Android app consuming **REST/JSON API**
-- 🗄️ Relational database with full CRUD operations
-- 🔗 Seamless web ↔ mobile data sync
+- 🏋️ **Gym Management System** — MVC architecture, membership & attendance tracking (Java + MySQL)
+- 🚛 **Truck Logistics Platform** — CRUD web app + Android REST API consumer
+- 🎮 **Unity 2D/3D Games** — Physics, animations and game logic in C#
+- 🗄️ All projects backed by relational databases (MySQL / SQL Server / SQLite)
 
-`Java` `Apache` `MySQL` `Android` `REST API` `JSON`
-
----
-
-### 🎮 [Unity Game Projects](https://github.com/codetype506/unity-games)
-> Collection of 2D/3D game prototypes
-
-- 🕹️ Physics engines, character animations, scene logic
-- 🧠 Complex game state management in **C#**
-- 🎯 Both 2D platformer and 3D environments
-
-`Unity` `C#` `2D/3D` `Game Dev`
+`Java` `MVC` `MySQL` `Android` `REST API` `Unity` `C#`
 
 ---
 
 ## 🤝 Collaborations
 
-> I actively contribute to team projects. Here are some highlights:
+> Team projects where I contributed as a developer:
 
-<!-- 
-  👇 INSTRUCCIONES PARA TI — reemplaza con tus colaboraciones reales:
-  Formato:
-  | Proyecto | Mi rol | Tecnologías |
-  Busca en tu GitHub: Settings → Contributions → ver en qué repos externos tienes commits
--->
+### 📱 [MovilAppLatina](https://github.com/AndresFernandezQAT/MovilAppLatina)
+> Mobile application developed in collaboration with university teammates
 
-| Project | My Role | Stack |
-|---------|---------|-------|
-| *(add collaboration 1)* | *(e.g., Backend Developer)* | *(e.g., Java, MySQL)* |
-| *(add collaboration 2)* | *(e.g., API Integration)* | *(e.g., Python, REST)* |
-| *(add collaboration 3)* | *(e.g., Frontend + DB)* | *(e.g., HTML, CSS, SQL)* |
+- 📲 Mobile app built in **C#**
+- 🤝 Contributed as part of a development team
+- 🔗 Forked and actively developed from the original repository
 
-> 💡 *Tip: To see all repos you've contributed to, go to your GitHub profile → Filter contributions*
+`C#` `Mobile` `Team Project`
+
+---
+
+### 🖥️ [Operativos](https://github.com/carlosandres-mendez/operativos)
+> Operating Systems university project developed collaboratively
+
+- ⚙️ Systems-level programming in **Java**
+- 👥 Collaborative academic project with peer developers
+- 🔁 Contributed with implementations and fixes
+
+`Java` `Operating Systems` `Team Project`
 
 ---
 
@@ -163,7 +146,7 @@ developer = {
 
 [![Gmail](https://img.shields.io/badge/mauriciotf94@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauriciotf94@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/+506_8312--2235-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50683122235)
-[![Location](https://img.shields.io/badge/San_José,_Costa_Rica-1B4F8A?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
+[![GitHub](https://img.shields.io/badge/codetype506-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codetype506)
 
 </div>
 
